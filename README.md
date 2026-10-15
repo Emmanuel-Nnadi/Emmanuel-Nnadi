@@ -1,42 +1,38 @@
-### Hi there 👋
+# Hi, I'm Emmanuel Nnadi 👋
 
-My Name is Emmanuel Nnadi 
-A passionate data enthusiasts from Toronto, Canada.
+I'm a data analyst based in **Toronto, Canada**, with a background in finance, business economics and applied data science.
 
-- 👀 I am interested in Data Analytics and Machine Learning. Feel free to check out my projects in the repo section
-- 🧑🏿‍💻 Currently a part-time data science consultannt with Beam Data in Toronto
-- 😁 I’m looking to collaborate on projects with similar minded people
-- 🫱🏼‍🫲🏿 You can connect with me on LinkedIn: https://www.linkedin.com/in/emmanuel-nnadi-b4b52b144/
-- 😄 Pronouns: He/Him
-- 📫 You can reach me via email: E_nnadi@ymail.com
+I work with **Python and SQL** to clean and transform data, investigate operational exceptions and build repeatable analysis workflows. My experience spans telecommunications, enterprise data governance and financial services.
 
-**Core Competencies:**
+I'm also interested in **machine learning and reliable AI systems**, particularly how we evaluate model outputs, identify failure modes and decide when human review is needed.
 
-- Data Analysis
-- Data Visualization
-- Statistics
-- Machine Learning
-- Creative Thinking
-  
-**Technical Skills**
+## What I work on
 
-- Python
-- SQL
-- Tableau
-- Power BI
-- Microsoft Excel
+- **Data analysis:** Investigating patterns, anomalies and business questions.
+- **Data quality:** Profiling, reconciliation, metadata management and exception reporting.
+- **Data visualization:** Building dashboards and communicating findings clearly.
+- **Applied AI:** Retrieval-augmented generation (RAG), model-output evaluation and human review.
 
-<!--
-**Emmanuel-Nnadi/Emmanuel-Nnadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Research interests
 
-Here are some ideas to get you started:
+- Separating retrieval failures from model-selection failures.
+- Distinguishing agreement with existing labels from independently measured correctness.
+- Evaluating evidence requirements and abstention under uncertainty.
+- Designing reproducible experiments using public datasets.
 
-- 🔭 I’m currently working on Web Scraping Projects
-- 🌱 I’m currently learning Advanced Data Analytics
-- 👯 
+## Technical skills
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
+- **Programming and data:** Python, pandas, SQL, BigQuery, PySpark and Spark SQL
+- **Visualization and reporting:** Power BI, Looker, Tableau and Microsoft Excel
+- **Platforms and workflows:** Databricks, Jupyter notebooks and REST APIs
+
+## Projects and collaboration
+
+Explore my repositories for project code and notebooks. I'm open to collaborating on data analysis, data quality and applied machine learning projects.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/emmanuel-nnadi-julu)
+- [Email](mailto:E_nnadi@ymail.com)
+
+**Pronouns:** He/Him
